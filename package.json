@@ -1,0 +1,23 @@
+{
+  "name": "td5_BP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrandinLuc/td5_BP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrandinLuc/td5_BP/issues"
+  },
+  "homepage": "https://github.com/GrandinLuc/td5_BP#readme",
+  "dependencies": {
+    "truffle": "^5.2.3"
+  }
+}
